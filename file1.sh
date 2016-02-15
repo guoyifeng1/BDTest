@@ -1,1 +1,1 @@
-ls -l
+alsit commond ls -l
